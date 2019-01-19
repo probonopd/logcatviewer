@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Logcat Viewer
+Type=Application
+Exec=logcatviewer
+Icon=logcatviewer
+Categories=System;
+Comment=Logviewer for Android
